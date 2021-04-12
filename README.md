@@ -12,9 +12,7 @@ Setup Requirements:
 
 Colab will be used as the text editor for this assignment.
 
-Dataset:
 
-The relevant datase for analysis can be accessed here:http://bit.ly/DSCoreAutolibDataset Dataset License: Open Database License The description of the dataset can be accessed here: http://bit.ly/DSCoreAutolibDatasetGlossary
 
 The programming language used: Python.
 
